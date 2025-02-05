@@ -1,0 +1,29 @@
+{
+  "name": "cx-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldion59/cx-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldion59/cx-frontend/issues"
+  },
+  "homepage": "https://github.com/eldion59/cx-frontend#readme",
+  "dependencies": {
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
